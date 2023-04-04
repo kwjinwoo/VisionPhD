@@ -161,3 +161,4 @@ cython_debug/
 video/
 logs/
 saved_model/
+data/
