@@ -162,3 +162,4 @@ video/
 logs/
 saved_model/
 data/
+.DS_Store
